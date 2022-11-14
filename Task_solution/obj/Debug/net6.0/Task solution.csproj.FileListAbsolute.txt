@@ -1,0 +1,15 @@
+D:\GB\ГБ\ItogTest\Task solution\obj\Debug\net6.0\Task solution.csproj.AssemblyReference.cache
+D:\GB\ГБ\ItogTest\Task solution\obj\Debug\net6.0\Task solution.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\ГБ\ItogTest\Task solution\obj\Debug\net6.0\Task solution.AssemblyInfoInputs.cache
+D:\GB\ГБ\ItogTest\Task solution\obj\Debug\net6.0\Task solution.AssemblyInfo.cs
+D:\GB\ГБ\ItogTest\Task solution\obj\Debug\net6.0\Task solution.csproj.CoreCompileInputs.cache
+D:\GB\ГБ\ItogTest\Task solution\bin\Debug\net6.0\Task solution.exe
+D:\GB\ГБ\ItogTest\Task solution\bin\Debug\net6.0\Task solution.deps.json
+D:\GB\ГБ\ItogTest\Task solution\bin\Debug\net6.0\Task solution.runtimeconfig.json
+D:\GB\ГБ\ItogTest\Task solution\bin\Debug\net6.0\Task solution.dll
+D:\GB\ГБ\ItogTest\Task solution\bin\Debug\net6.0\Task solution.pdb
+D:\GB\ГБ\ItogTest\Task solution\obj\Debug\net6.0\Task solution.dll
+D:\GB\ГБ\ItogTest\Task solution\obj\Debug\net6.0\refint\Task solution.dll
+D:\GB\ГБ\ItogTest\Task solution\obj\Debug\net6.0\Task solution.pdb
+D:\GB\ГБ\ItogTest\Task solution\obj\Debug\net6.0\Task solution.genruntimeconfig.cache
+D:\GB\ГБ\ItogTest\Task solution\obj\Debug\net6.0\ref\Task solution.dll
